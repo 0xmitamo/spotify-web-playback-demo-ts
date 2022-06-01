@@ -11,7 +11,7 @@ const Home: NextPage<Props> = ({ token }) => {
   return (
     <>
       <Head>
-        <title>Spotify Web Playback Example</title>
+        <title>Spotify Web Playback Demo</title>
         <meta
           name="description"
           content="An example app of Spotify Web Playback SDK based on Next.js and Typescript."

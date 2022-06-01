@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+App rewritten official Spotify Web Playback SDK sample in Next.js + TypeScript
 
 ## Getting Started
 
@@ -11,3 +11,8 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Thanks 🎉
+
+[`Next.js + TypeScript で Spotify Web Playback SDK の公式サンプルを書き直してみた`](https://zenn.dev/ossamoon/articles/ef20bf19284fd8)
+
